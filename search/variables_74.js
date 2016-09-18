@@ -41,7 +41,6 @@ var searchData=
   ['total_5fout_5fhi32',['total_out_hi32',['../structbz__stream.html#a8906ddf3e4fcc6963ef6680157647001',1,'bz_stream']]],
   ['total_5fout_5flo32',['total_out_lo32',['../structbz__stream.html#a7befd6f6ace94f7df3aac07ad48f944b',1,'bz_stream']]],
   ['total_5fshards_5fenv_5fvar',['TOTAL_SHARDS_ENV_VAR',['../namespacegtest__filter__unittest.html#af4fa5ce8e03a92eb3106d373007c6eec',1,'gtest_filter_unittest.TOTAL_SHARDS_ENV_VAR()'],['../namespacegtest__shuffle__test.html#ad6f07fc6a72dd75a7bcdea697a4592db',1,'gtest_shuffle_test.TOTAL_SHARDS_ENV_VAR()']]],
-  ['town',['town',['../readme_8md.html#a28bb90295567a2d0281d957e383869d2',1,'readme.md']]],
   ['tpos',['tPos',['../struct_d_state.html#a8b99150fb0c3206fab22f290f3c0dfe6',1,'DState']]],
   ['translation',['translation',['../struct_draw_command.html#aa34167ff4872acbe2ee5ea366c9e18bd',1,'DrawCommand']]],
   ['trnpath',['trnPath',['../struct_diablo_exe_1_1_monster.html#a6921675f19b94e115db624ada926d15e',1,'DiabloExe::Monster']]],

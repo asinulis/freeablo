@@ -117,13 +117,13 @@ Public Member Functions</h2></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="_storm_port_8h.html#abb452686968e48b67397da5f97445f5b">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#a99d0bf933efedfbb5ce4f8a0c1a7f022">loadUserSettings</a> ()</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="_storm_port_8h.html#abb452686968e48b67397da5f97445f5b">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#aa1bd46b374b1279a3f4d66b2e01ab03c">loadFromFile</a> (const std::string &amp;path)</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="_storm_port_8h.html#abb452686968e48b67397da5f97445f5b">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#ae752b0e9050e09a7beb01e07582fd12f">save</a> ()</td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="_storm_port_8h.html#abb452686968e48b67397da5f97445f5b">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#acdf1f892b0b56ff65ee3626bae047480">isSectionExists</a> (const std::string &amp;<a class="el" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="_storm_port_8h.html#abb452686968e48b67397da5f97445f5b">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#acdf1f892b0b56ff65ee3626bae047480">isSectionExists</a> (const std::string &amp;section)</td></tr>
 <tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespace_settings.html#a842b0f238f5907c66a1fb991e71eeb6e">Container</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#afb26bf6f49f261a50eaeb642ac45ae40">getSections</a> ()</td></tr>
-<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespace_settings.html#a842b0f238f5907c66a1fb991e71eeb6e">Container</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#add94b46bc1103539b1f595992722094e">getPropertiesInSection</a> (const std::string &amp;<a class="el" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespace_settings.html#a842b0f238f5907c66a1fb991e71eeb6e">Container</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#add94b46bc1103539b1f595992722094e">getPropertiesInSection</a> (const std::string &amp;section)</td></tr>
 <tr><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#ab44b93c89996df05ac70e3f814148470">get</a> (const std::string &amp;<a class="el" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>, const std::string &amp;name, T defaultValue=T())</td></tr>
+<tr><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#ab44b93c89996df05ac70e3f814148470">get</a> (const std::string &amp;section, const std::string &amp;name, T defaultValue=T())</td></tr>
 <tr><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#a617d9edfdc2c80e48b808efcd921b6bb">set</a> (const std::string &amp;<a class="el" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>, const std::string &amp;name, T <a class="el" href="der__length__printable__string_8c.html#ac4f474c82e82cbb89ca7c36dd52be0ed">value</a>)</td></tr>
+<tr><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#a617d9edfdc2c80e48b808efcd921b6bb">set</a> (const std::string &amp;section, const std::string &amp;name, T <a class="el" href="der__length__printable__string_8c.html#ac4f474c82e82cbb89ca7c36dd52be0ed">value</a>)</td></tr>
 <tr><td colspan="2"><h2><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
 <tr><td class="memItemLeft" align="right" valign="top">static const std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_settings_1_1_settings.html#a4969be6d4436667fe397ddad2ce2e21a">DEFAULT_PATH</a> = &quot;resources/settings-default.ini&quot;</td></tr>
@@ -180,15 +180,6 @@ template&lt;class T &gt; </div>
       </table>
 </div>
 <div class="memdoc">
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="class_settings_1_1_settings_ab44b93c89996df05ac70e3f814148470_cgraph.png" border="0" usemap="#class_settings_1_1_settings_ab44b93c89996df05ac70e3f814148470_cgraph" alt=""/></div>
-<map name="class_settings_1_1_settings_ab44b93c89996df05ac70e3f814148470_cgraph" id="class_settings_1_1_settings_ab44b93c89996df05ac70e3f814148470_cgraph">
-<area shape="rect" id="node3" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b" title="section" alt="" coords="205,5,269,35"/></map>
-</div>
-</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -377,15 +368,6 @@ template&lt;class T &gt; </div>
       </table>
 </div>
 <div class="memdoc">
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="class_settings_1_1_settings_a617d9edfdc2c80e48b808efcd921b6bb_cgraph.png" border="0" usemap="#class_settings_1_1_settings_a617d9edfdc2c80e48b808efcd921b6bb_cgraph" alt=""/></div>
-<map name="class_settings_1_1_settings_a617d9edfdc2c80e48b808efcd921b6bb_cgraph" id="class_settings_1_1_settings_a617d9edfdc2c80e48b808efcd921b6bb_cgraph">
-<area shape="rect" id="node3" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b" title="section" alt="" coords="205,5,269,35"/></map>
-</div>
-</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>

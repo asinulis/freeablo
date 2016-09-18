@@ -46,7 +46,6 @@ var searchData=
   ['zeromem_2ec',['zeromem.c',['../zeromem_8c.html',1,'']]],
   ['zerror',['zError',['../zutil_8c.html#a43d0ecf9c894ba2ed44845a6ffc36209',1,'zutil.c']]],
   ['zfree',['zfree',['../structz__stream__s.html#a89eb750ade7f4f0b56bfdadf13344982',1,'z_stream_s::zfree()'],['../zutil_8h.html#a71d7c4f186ae3a055367c92db5a8ab18',1,'ZFREE():&#160;zutil.h']]],
-  ['zlib',['zlib',['../readme_8md.html#a2abba2eac7c12dd8230fc102edcd988c',1,'readme.md']]],
   ['zlib_2eh',['zlib.h',['../zlib_8h.html',1,'']]],
   ['zlib_5finternal',['ZLIB_INTERNAL',['../zlib_2compress_8c.html#a59d4d7ef4d73655c759211ec33a5d44f',1,'ZLIB_INTERNAL():&#160;compress.c'],['../zutil_8h.html#a59d4d7ef4d73655c759211ec33a5d44f',1,'ZLIB_INTERNAL():&#160;zutil.h']]],
   ['zlib_5fver_5fmajor',['ZLIB_VER_MAJOR',['../zlib_8h.html#a52eec052f38e306d472e75bfafda9608',1,'zlib.h']]],

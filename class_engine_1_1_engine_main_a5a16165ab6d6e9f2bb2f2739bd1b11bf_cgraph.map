@@ -1,51 +1,51 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$class_settings_1_1_settings.html#a99d0bf933efedfbb5ce4f8a0c1a7f022" title="Settings::Settings::loadUserSettings" alt="" coords="219,431,453,460"/>
-<area shape="rect" id="node27" href="$class_settings_1_1_settings.html#ab44b93c89996df05ac70e3f814148470" title="Settings::Settings::get" alt="" coords="260,615,412,644"/>
-<area shape="rect" id="node31" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="243,1036,429,1065"/>
-<area shape="rect" id="node5" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="565,299,661,328"/>
-<area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="800,299,957,328"/>
-<area shape="rect" id="node9" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="831,165,927,195"/>
-<area shape="rect" id="node11" href="$_s_base_common_8cpp.html#a67882fdf8d424efbb6b2e1f748583a66" title="IsValidMpqHandle" alt="" coords="1104,192,1232,221"/>
-<area shape="rect" id="node13" href="$_s_base_common_8cpp.html#ad01c4c290fa6caebc77053dbc12c1070" title="IsPseudoFileName" alt="" coords="1101,245,1235,275"/>
-<area shape="rect" id="node15" href="$_s_base_file_table_8cpp.html#a7347ab3dd849dcc0350e1ca8d83af6b3" title="GetFileEntryLocale" alt="" coords="1101,32,1235,61"/>
-<area shape="rect" id="node23" href="$_s_base_file_table_8cpp.html#abf78f423c25cfc7a8065eca9dc4480af" title="GetFileEntryByIndex" alt="" coords="1097,85,1239,115"/>
-<area shape="rect" id="node25" href="$_file_stream_8cpp.html#ae12246cf2f9f9aa8e3a6367bd9fa2aed" title="SetLastError" alt="" coords="1121,139,1215,168"/>
-<area shape="rect" id="node17" href="$_s_base_file_table_8cpp.html#acf04d5326a7dd5e0c5d82598f8e76a50" title="GetFileIndex_Het" alt="" coords="1384,32,1507,61"/>
-<area shape="rect" id="node19" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="1668,59,1799,88"/>
-<area shape="rect" id="node21" href="$_s_base_file_table_8cpp.html#a8b7cf3b06d4cc7779a95a0ef92172269" title="GetBits" alt="" coords="1700,5,1767,35"/>
-<area shape="rect" id="node29" href="$readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b" title="section" alt="" coords="581,615,645,644"/>
-<area shape="rect" id="node33" href="$class_engine_1_1_thread_manager.html#a27827da1557a748ed2bb248d50d7a1ca" title="Engine::ThreadManager::get" alt="" coords="520,1089,707,1119"/>
-<area shape="rect" id="node35" href="$class_input_1_1_input_manager.html#a8c487668bd5ec294cfcccb94337f43d7" title="Input::InputManager::poll" alt="" coords="531,1195,696,1224"/>
-<area shape="rect" id="node39" href="$class_f_a_render_1_1_renderer.html#ad6e983189d6cf6b7aaef89d54ed89396" title="To be called only by Engine::ThreadManager." alt="" coords="503,957,724,987"/>
-<area shape="rect" id="node103" href="$class_f_a_render_1_1_renderer.html#a7c3143aefd6b3454e511ed572dad79c9" title="To be called only by Engine::ThreadManager." alt="" coords="516,1036,711,1065"/>
-<area shape="rect" id="node37" href="$namespace_render.html#aec95c0d3bbbec74e588dfefc1e0a1d9f" title="Render::resize" alt="" coords="825,1248,932,1277"/>
-<area shape="rect" id="node41" href="$class_f_a_world_1_1_game_level.html#af36b2f0b685b079cba343778904c5930" title="FAWorld::GameLevel::width" alt="" coords="785,931,972,960"/>
-<area shape="rect" id="node47" href="$class_f_a_world_1_1_game_level.html#ad576185f819af1be6b83418031d0cc58" title="FAWorld::GameLevel::height" alt="" coords="784,877,973,907"/>
-<area shape="rect" id="node53" href="$class_f_a_world_1_1_position.html#ab94b2a6090773ec284fe7ee2ed37b725" title="where we are coming from" alt="" coords="791,1088,967,1117"/>
-<area shape="rect" id="node55" href="$class_f_a_world_1_1_position.html#af614f26024526e45894ebde109e84fee" title="where we are going to" alt="" coords="799,1141,959,1171"/>
-<area shape="rect" id="node57" href="$namespace_render.html#aa2625d5d45177718b16be35d3de01643" title="Render::drawLevel" alt="" coords="813,723,944,752"/>
-<area shape="rect" id="node78" href="$class_f_a_render_1_1_f_a_sprite_group.html#a6a3acc826355578573d25afe1e614a53" title="FARender::FASpriteGroup::getCacheIndex" alt="" coords="1033,512,1303,541"/>
-<area shape="rect" id="node80" href="$namespace_render.html#ab202bc8717cdb0033125cb9446fd2db2" title="Render::drawGui" alt="" coords="819,984,939,1013"/>
-<area shape="rect" id="node84" href="$namespace_render.html#a7087bcd1e1950ec6ef28ff4897018fd9" title="Render::draw" alt="" coords="1396,1009,1495,1039"/>
-<area shape="rect" id="node86" href="$class_f_a_render_1_1_renderer.html#aa73fae0f49236c7a83fa6b01a9e5e8d4" title="FARender::Renderer::setCursor" alt="" coords="776,432,981,461"/>
-<area shape="rect" id="node43" href="$class_level_1_1_level.html#a8a9ab47247600f305776f3d62b73a46a" title="Level::Level::width" alt="" coords="1380,829,1511,859"/>
-<area shape="rect" id="node45" href="$class_level_1_1_dun.html#a484e94f5c0d423b9277ee500583c510d" title="Level::Dun::width" alt="" coords="1672,829,1795,859"/>
-<area shape="rect" id="node49" href="$class_level_1_1_level.html#a2192aa396aedd8d135e8e027ed8a826e" title="Level::Level::height" alt="" coords="1379,723,1512,752"/>
-<area shape="rect" id="node51" href="$class_level_1_1_dun.html#a741579a7d91d77fa99026cc35c77ac59" title="Level::Dun::height" alt="" coords="1669,723,1797,752"/>
-<area shape="rect" id="node59" href="$namespace_render.html#aa1e46d36c78f3a7f7f2715ebaa057bc9" title="Render::getMapScreenCoords" alt="" coords="1069,829,1267,859"/>
-<area shape="rect" id="node62" href="$class_render_1_1_sprite_cache_base.html#af3ac5342c01c2e5372f028e6343b0c76" title="Render::SpriteCacheBase::get" alt="" coords="1068,776,1268,805"/>
-<area shape="rect" id="node64" href="$namespace_render.html#ad87d4d24823c4be8c9e90a79cef0cc48" title="Render::getTileFromScreenCoords" alt="" coords="1056,723,1280,752"/>
-<area shape="rect" id="node67" href="$namespace_render.html#a4d30f80e7e20bffea849c6efdf7076b1" title="Render::drawLevelHelper" alt="" coords="1084,616,1252,645"/>
-<area shape="rect" id="node73" href="$namespace_render.html#a725f4e1357ec4979c7ed97f447c7d5a6" title="Render::drawAt" alt="" coords="1389,564,1501,593"/>
-<area shape="rect" id="node75" href="$class_render_1_1_sprite_cache_base.html#a1deef00e690fc84727cde14ccd22018c" title="Render::SpriteCacheBase::setImmortal" alt="" coords="1043,669,1293,699"/>
-<area shape="rect" id="node71" href="$class_render_1_1_sprite_group.html#a6509b30910ff7482b45d96f459938aa2" title="Render::SpriteGroup::size" alt="" coords="1359,617,1532,647"/>
-<area shape="rect" id="node82" href="$class_rocket_s_d_l2_renderer.html#a4d590e7958e63257934ec4a23c33750f" title="RocketSDL2Renderer::drawBuffer" alt="" coords="1057,984,1279,1013"/>
-<area shape="rect" id="node88" href="$class_f_a_render_1_1_sprite_manager.html#a3406a2bb2d8eac40abbc7e68fd3bbd6f" title="To be called from the game thread." alt="" coords="1069,299,1267,328"/>
-<area shape="rect" id="node95" href="$namespace_render.html#ae8490bd4dd892c99b383fe597d8c51e6" title="Render::drawCursor" alt="" coords="1099,459,1237,488"/>
-<area shape="rect" id="node98" href="$class_f_a_render_1_1_f_a_sprite_group.html#a9589a5e95775b4a2eb6add446df7c4b8" title="FARender::FASpriteGroup::getWidth" alt="" coords="1051,352,1285,381"/>
-<area shape="rect" id="node100" href="$class_f_a_render_1_1_f_a_sprite_group.html#aa295382f7e191a3e57b0cb1b84fbbc6d" title="FARender::FASpriteGroup::getHeight" alt="" coords="1049,405,1287,435"/>
-<area shape="rect" id="node90" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="1352,299,1539,328"/>
-<area shape="rect" id="node92" href="$class_f_a_render_1_1_sprite_cache.html#ac89d731619ab8f11003e563b3885dfed" title="To be called from the game thread." alt="" coords="1588,299,1879,328"/>
-<area shape="rect" id="node105" href="$class_f_a_render_1_1_sprite_manager.html#a3654837a02b4e588ea5a5f486dac3203" title="To be called from the render thread." alt="" coords="775,1195,983,1224"/>
-<area shape="rect" id="node107" href="$class_f_a_render_1_1_sprite_cache.html#aa02c7cd887f96554f6f2e62f2588d1fa" title="FARender::SpriteCache::clear" alt="" coords="1069,1195,1267,1224"/>
+<area shape="rect" id="node3" href="$class_settings_1_1_settings.html#a99d0bf933efedfbb5ce4f8a0c1a7f022" title="Settings::Settings::loadUserSettings" alt="" coords="219,207,453,236"/>
+<area shape="rect" id="node27" href="$class_settings_1_1_settings.html#ab44b93c89996df05ac70e3f814148470" title="Settings::Settings::get" alt="" coords="260,261,412,291"/>
+<area shape="rect" id="node29" href="$class_engine_1_1_thread_manager.html#ab99a6ee7b73f2e9b24a824e811df5d88" title="Engine::ThreadManager::run" alt="" coords="243,317,429,347"/>
+<area shape="rect" id="node5" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="565,205,661,235"/>
+<area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="800,205,957,235"/>
+<area shape="rect" id="node9" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="831,125,927,155"/>
+<area shape="rect" id="node11" href="$_s_base_common_8cpp.html#a67882fdf8d424efbb6b2e1f748583a66" title="IsValidMpqHandle" alt="" coords="1104,59,1232,88"/>
+<area shape="rect" id="node13" href="$_s_base_common_8cpp.html#ad01c4c290fa6caebc77053dbc12c1070" title="IsPseudoFileName" alt="" coords="1101,112,1235,141"/>
+<area shape="rect" id="node15" href="$_s_base_file_table_8cpp.html#a7347ab3dd849dcc0350e1ca8d83af6b3" title="GetFileEntryLocale" alt="" coords="1101,165,1235,195"/>
+<area shape="rect" id="node23" href="$_s_base_file_table_8cpp.html#abf78f423c25cfc7a8065eca9dc4480af" title="GetFileEntryByIndex" alt="" coords="1097,219,1239,248"/>
+<area shape="rect" id="node25" href="$_file_stream_8cpp.html#ae12246cf2f9f9aa8e3a6367bd9fa2aed" title="SetLastError" alt="" coords="1121,5,1215,35"/>
+<area shape="rect" id="node17" href="$_s_base_file_table_8cpp.html#acf04d5326a7dd5e0c5d82598f8e76a50" title="GetFileIndex_Het" alt="" coords="1384,165,1507,195"/>
+<area shape="rect" id="node19" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="1668,139,1799,168"/>
+<area shape="rect" id="node21" href="$_s_base_file_table_8cpp.html#a8b7cf3b06d4cc7779a95a0ef92172269" title="GetBits" alt="" coords="1700,192,1767,221"/>
+<area shape="rect" id="node31" href="$class_engine_1_1_thread_manager.html#a27827da1557a748ed2bb248d50d7a1ca" title="Engine::ThreadManager::get" alt="" coords="520,317,707,347"/>
+<area shape="rect" id="node33" href="$class_input_1_1_input_manager.html#a8c487668bd5ec294cfcccb94337f43d7" title="Input::InputManager::poll" alt="" coords="531,371,696,400"/>
+<area shape="rect" id="node37" href="$class_f_a_render_1_1_renderer.html#ad6e983189d6cf6b7aaef89d54ed89396" title="To be called only by Engine::ThreadManager." alt="" coords="503,588,724,617"/>
+<area shape="rect" id="node103" href="$class_f_a_render_1_1_renderer.html#a7c3143aefd6b3454e511ed572dad79c9" title="To be called only by Engine::ThreadManager." alt="" coords="516,264,711,293"/>
+<area shape="rect" id="node35" href="$namespace_render.html#aec95c0d3bbbec74e588dfefc1e0a1d9f" title="Render::resize" alt="" coords="825,351,932,380"/>
+<area shape="rect" id="node39" href="$class_f_a_world_1_1_game_level.html#af36b2f0b685b079cba343778904c5930" title="FAWorld::GameLevel::width" alt="" coords="785,561,972,591"/>
+<area shape="rect" id="node45" href="$class_f_a_world_1_1_game_level.html#ad576185f819af1be6b83418031d0cc58" title="FAWorld::GameLevel::height" alt="" coords="784,615,973,644"/>
+<area shape="rect" id="node51" href="$class_f_a_world_1_1_position.html#ab94b2a6090773ec284fe7ee2ed37b725" title="where we are coming from" alt="" coords="791,1087,967,1116"/>
+<area shape="rect" id="node53" href="$class_f_a_world_1_1_position.html#af614f26024526e45894ebde109e84fee" title="where we are going to" alt="" coords="799,404,959,433"/>
+<area shape="rect" id="node55" href="$namespace_render.html#aa2625d5d45177718b16be35d3de01643" title="Render::drawLevel" alt="" coords="813,769,944,799"/>
+<area shape="rect" id="node76" href="$class_f_a_render_1_1_f_a_sprite_group.html#a6a3acc826355578573d25afe1e614a53" title="FARender::FASpriteGroup::getCacheIndex" alt="" coords="1033,980,1303,1009"/>
+<area shape="rect" id="node78" href="$namespace_render.html#ab202bc8717cdb0033125cb9446fd2db2" title="Render::drawGui" alt="" coords="819,457,939,487"/>
+<area shape="rect" id="node82" href="$namespace_render.html#a7087bcd1e1950ec6ef28ff4897018fd9" title="Render::draw" alt="" coords="1396,484,1495,513"/>
+<area shape="rect" id="node84" href="$class_f_a_render_1_1_renderer.html#aa73fae0f49236c7a83fa6b01a9e5e8d4" title="FARender::Renderer::setCursor" alt="" coords="776,1033,981,1063"/>
+<area shape="rect" id="node41" href="$class_level_1_1_level.html#a8a9ab47247600f305776f3d62b73a46a" title="Level::Level::width" alt="" coords="1380,663,1511,692"/>
+<area shape="rect" id="node43" href="$class_level_1_1_dun.html#a484e94f5c0d423b9277ee500583c510d" title="Level::Dun::width" alt="" coords="1672,663,1795,692"/>
+<area shape="rect" id="node47" href="$class_level_1_1_level.html#a2192aa396aedd8d135e8e027ed8a826e" title="Level::Level::height" alt="" coords="1379,716,1512,745"/>
+<area shape="rect" id="node49" href="$class_level_1_1_dun.html#a741579a7d91d77fa99026cc35c77ac59" title="Level::Dun::height" alt="" coords="1669,716,1797,745"/>
+<area shape="rect" id="node57" href="$namespace_render.html#aa1e46d36c78f3a7f7f2715ebaa057bc9" title="Render::getMapScreenCoords" alt="" coords="1069,663,1267,692"/>
+<area shape="rect" id="node60" href="$class_render_1_1_sprite_cache_base.html#af3ac5342c01c2e5372f028e6343b0c76" title="Render::SpriteCacheBase::get" alt="" coords="1068,769,1268,799"/>
+<area shape="rect" id="node62" href="$namespace_render.html#ad87d4d24823c4be8c9e90a79cef0cc48" title="Render::getTileFromScreenCoords" alt="" coords="1056,716,1280,745"/>
+<area shape="rect" id="node65" href="$namespace_render.html#a4d30f80e7e20bffea849c6efdf7076b1" title="Render::drawLevelHelper" alt="" coords="1084,823,1252,852"/>
+<area shape="rect" id="node71" href="$namespace_render.html#a725f4e1357ec4979c7ed97f447c7d5a6" title="Render::drawAt" alt="" coords="1389,928,1501,957"/>
+<area shape="rect" id="node73" href="$class_render_1_1_sprite_cache_base.html#a1deef00e690fc84727cde14ccd22018c" title="Render::SpriteCacheBase::setImmortal" alt="" coords="1043,876,1293,905"/>
+<area shape="rect" id="node69" href="$class_render_1_1_sprite_group.html#a6509b30910ff7482b45d96f459938aa2" title="Render::SpriteGroup::size" alt="" coords="1359,823,1532,852"/>
+<area shape="rect" id="node80" href="$class_rocket_s_d_l2_renderer.html#a4d590e7958e63257934ec4a23c33750f" title="RocketSDL2Renderer::drawBuffer" alt="" coords="1057,457,1279,487"/>
+<area shape="rect" id="node86" href="$class_f_a_render_1_1_sprite_manager.html#a3406a2bb2d8eac40abbc7e68fd3bbd6f" title="To be called from the game thread." alt="" coords="1069,1193,1267,1223"/>
+<area shape="rect" id="node95" href="$namespace_render.html#ae8490bd4dd892c99b383fe597d8c51e6" title="Render::drawCursor" alt="" coords="1099,1140,1237,1169"/>
+<area shape="rect" id="node98" href="$class_f_a_render_1_1_f_a_sprite_group.html#a9589a5e95775b4a2eb6add446df7c4b8" title="FARender::FASpriteGroup::getWidth" alt="" coords="1051,1033,1285,1063"/>
+<area shape="rect" id="node100" href="$class_f_a_render_1_1_f_a_sprite_group.html#aa295382f7e191a3e57b0cb1b84fbbc6d" title="FARender::FASpriteGroup::getHeight" alt="" coords="1049,1087,1287,1116"/>
+<area shape="rect" id="node88" href="$class_f_a_render_1_1_sprite_cache.html#a5936030780a9a97d4c27bca0bb846dd6" title="To be called from the game thread." alt="" coords="1352,1193,1539,1223"/>
+<area shape="rect" id="node90" href="$class_f_a_render_1_1_sprite_cache.html#ac89d731619ab8f11003e563b3885dfed" title="To be called from the game thread." alt="" coords="1588,1167,1879,1196"/>
+<area shape="rect" id="node92" href="$class_f_a_render_1_1_sprite_cache.html#a2b08caf45b2056810d72c42572947f8f" title="Can be called from any thread." alt="" coords="1600,1220,1867,1249"/>
+<area shape="rect" id="node105" href="$class_f_a_render_1_1_sprite_manager.html#a3654837a02b4e588ea5a5f486dac3203" title="To be called from the render thread." alt="" coords="775,271,983,300"/>
+<area shape="rect" id="node107" href="$class_f_a_render_1_1_sprite_cache.html#aa02c7cd887f96554f6f2e62f2588d1fa" title="FARender::SpriteCache::clear" alt="" coords="1069,272,1267,301"/>
 </map>

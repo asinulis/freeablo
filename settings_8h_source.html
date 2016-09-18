@@ -107,18 +107,18 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l00024"></a>00024     <span class="keywordtype">bool</span> <a class="code" href="class_settings_1_1_settings.html#aa1bd46b374b1279a3f4d66b2e01ab03c">loadFromFile</a>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; path);
 <a name="l00025"></a>00025     <span class="keywordtype">bool</span> <a class="code" href="class_settings_1_1_settings.html#ae752b0e9050e09a7beb01e07582fd12f">save</a>();
 <a name="l00026"></a>00026 
-<a name="l00027"></a>00027     <span class="keywordtype">bool</span> <a class="code" href="class_settings_1_1_settings.html#acdf1f892b0b56ff65ee3626bae047480">isSectionExists</a>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; <a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>);
+<a name="l00027"></a>00027     <span class="keywordtype">bool</span> <a class="code" href="class_settings_1_1_settings.html#acdf1f892b0b56ff65ee3626bae047480">isSectionExists</a>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; section);
 <a name="l00028"></a>00028     <a class="code" href="namespace_settings.html#a842b0f238f5907c66a1fb991e71eeb6e">Container</a> <a class="code" href="class_settings_1_1_settings.html#afb26bf6f49f261a50eaeb642ac45ae40">getSections</a>();
-<a name="l00029"></a>00029     <a class="code" href="namespace_settings.html#a842b0f238f5907c66a1fb991e71eeb6e">Container</a> <a class="code" href="class_settings_1_1_settings.html#add94b46bc1103539b1f595992722094e">getPropertiesInSection</a>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; <a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>);
+<a name="l00029"></a>00029     <a class="code" href="namespace_settings.html#a842b0f238f5907c66a1fb991e71eeb6e">Container</a> <a class="code" href="class_settings_1_1_settings.html#add94b46bc1103539b1f595992722094e">getPropertiesInSection</a>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; section);
 <a name="l00030"></a>00030 
 <a name="l00031"></a>00031     <span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;
-<a name="l00032"></a><a class="code" href="class_settings_1_1_settings.html#ab44b93c89996df05ac70e3f814148470">00032</a>     T <span class="keyword">get</span>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; <a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>, <span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; name, T defaultValue = T())
+<a name="l00032"></a><a class="code" href="class_settings_1_1_settings.html#ab44b93c89996df05ac70e3f814148470">00032</a>     T <span class="keyword">get</span>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; section, <span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; name, T defaultValue = T())
 <a name="l00033"></a>00033     {
 <a name="l00034"></a>00034         <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> connector = <span class="stringliteral">&quot;.&quot;</span>;
-<a name="l00035"></a>00035         <span class="keywordflow">if</span>(<a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>.empty())
+<a name="l00035"></a>00035         <span class="keywordflow">if</span>(section.empty())
 <a name="l00036"></a>00036             connector = <span class="stringliteral">&quot;&quot;</span>;
 <a name="l00037"></a>00037 
-<a name="l00038"></a>00038         <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> fullName = <a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a> + connector + name;
+<a name="l00038"></a>00038         <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> fullName = section + connector + name;
 <a name="l00039"></a>00039 
 <a name="l00040"></a>00040         boost::optional&lt; T &gt; <a class="code" href="namespacegtest__filter__unittest.html#a158829096400f19be6d8a3ef8ca8b76a">child</a> = mUserPropertyTree.get_optional&lt;T&gt;( fullName.c_str() );
 <a name="l00041"></a>00041         <span class="keywordflow">if</span>(!child)
@@ -140,13 +140,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <a name="l00057"></a>00057     }
 <a name="l00058"></a>00058 
 <a name="l00059"></a>00059     <span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;
-<a name="l00060"></a><a class="code" href="class_settings_1_1_settings.html#a617d9edfdc2c80e48b808efcd921b6bb">00060</a>     <span class="keywordtype">void</span> <span class="keyword">set</span>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; <a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>, <span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; name, T <a class="code" href="der__length__ia5__string_8c.html#ac4f474c82e82cbb89ca7c36dd52be0ed">value</a>)
+<a name="l00060"></a><a class="code" href="class_settings_1_1_settings.html#a617d9edfdc2c80e48b808efcd921b6bb">00060</a>     <span class="keywordtype">void</span> <span class="keyword">set</span>(<span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; section, <span class="keyword">const</span> <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> &amp; name, T <a class="code" href="der__length__ia5__string_8c.html#ac4f474c82e82cbb89ca7c36dd52be0ed">value</a>)
 <a name="l00061"></a>00061     {
 <a name="l00062"></a>00062         <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> connector = <span class="stringliteral">&quot;.&quot;</span>;
-<a name="l00063"></a>00063         <span class="keywordflow">if</span>(<a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a>.empty())
+<a name="l00063"></a>00063         <span class="keywordflow">if</span>(section.empty())
 <a name="l00064"></a>00064             connector = <span class="stringliteral">&quot;&quot;</span>;
 <a name="l00065"></a>00065 
-<a name="l00066"></a>00066         <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> fullName = <a class="code" href="readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b">section</a> + connector + name;
+<a name="l00066"></a>00066         <a class="code" href="namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111">std::string</a> fullName = section + connector + name;
 <a name="l00067"></a>00067         mUserPropertyTree.put(fullName.c_str(), <a class="code" href="der__length__ia5__string_8c.html#ac4f474c82e82cbb89ca7c36dd52be0ed">value</a>);
 <a name="l00068"></a>00068     }
 <a name="l00069"></a>00069 

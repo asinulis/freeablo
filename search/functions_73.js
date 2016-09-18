@@ -28,7 +28,6 @@ var searchData=
   ['scrollbox',['ScrollBox',['../class_f_a_gui_1_1_scroll_box.html#a588f876c6ca55483e80c7e3bc77684df',1,'FAGui::ScrollBox']]],
   ['sdl_5fpngformatalpha',['SDL_PNGFormatAlpha',['../save_p_n_g_8cpp.html#acf38b40c5f950a7349b32a8e74c87627',1,'SDL_PNGFormatAlpha(SDL_Surface *src):&#160;savePNG.cpp'],['../save_p_n_g_8h.html#acf38b40c5f950a7349b32a8e74c87627',1,'SDL_PNGFormatAlpha(SDL_Surface *src):&#160;savePNG.cpp']]],
   ['sdl_5fsavepng_5frw',['SDL_SavePNG_RW',['../save_p_n_g_8cpp.html#ab6dc7b8247bb35fb5de8a870756ee342',1,'SDL_SavePNG_RW(SDL_Surface *surface, SDL_RWops *dst, int freedst):&#160;savePNG.cpp'],['../save_p_n_g_8h.html#a8fe37a0764d8bd9b77b7d47d14fede6a',1,'SDL_SavePNG_RW(SDL_Surface *surface, SDL_RWops *rw, int freedst):&#160;savePNG.cpp']]],
-  ['section',['section',['../readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b',1,'readme.md']]],
   ['sectolook_5fcreatevtable',['SecToLook_CreateVTable',['../_types_8h.html#aecc4b4a88d26e614ef152517e69a1f3e',1,'Types.h']]],
   ['sectoread_5fcreatevtable',['SecToRead_CreateVTable',['../_types_8h.html#a1cf478ad3d8ef0cd66d7132ee6e9bae8',1,'Types.h']]],
   ['seek',['Seek',['../class_f_a_i_o_file_interface.html#a296920878fdde9a655191137f4ef410c',1,'FAIOFileInterface::Seek()'],['../class_serial_1_1_bit_stream_base.html#a21847010cec862c8ff3e246aedc94256',1,'Serial::BitStreamBase::seek()']]],

@@ -1,7 +1,7 @@
 <map id="G" name="G">
 <area shape="rect" id="node3" href="$class_settings_1_1_settings.html#aa1bd46b374b1279a3f4d66b2e01ab03c" title="Settings::Settings::loadFromFile" alt="" coords="207,85,415,115"/>
 <area shape="rect" id="node29" href="$class_settings_1_1_settings.html#ab44b93c89996df05ac70e3f814148470" title="Settings::Settings::get" alt="" coords="235,139,387,168"/>
-<area shape="rect" id="node33" href="$class_input_1_1_hotkey.html#a1e76b7d47cf9462bea027e7e5dcf3643" title="Input::Hotkey::name" alt="" coords="240,192,381,221"/>
+<area shape="rect" id="node31" href="$class_input_1_1_hotkey.html#a1e76b7d47cf9462bea027e7e5dcf3643" title="Input::Hotkey::name" alt="" coords="240,192,381,221"/>
 <area shape="rect" id="node5" href="$namespace_f_a_i_o.html#a8f16382f062120f012e3145ae9e4e517" title="FAIO::exists" alt="" coords="464,85,560,115"/>
 <area shape="rect" id="node7" href="$namespace_f_a_i_o.html#a96e8681bec0c217e0af771edd596d551" title="FAIO::getStormLibPath" alt="" coords="609,59,767,88"/>
 <area shape="rect" id="node9" href="$_s_file_open_file_ex_8cpp.html#a7fb756b76326ffec7dbe07e4167490c0" title="SFileHasFile" alt="" coords="640,112,736,141"/>
@@ -14,5 +14,4 @@
 <area shape="rect" id="node19" href="$_s_base_common_8cpp.html#a7c410e53e1793314064827d095ba86ce" title="HashStringJenkins" alt="" coords="1183,85,1313,115"/>
 <area shape="rect" id="node23" href="$_s_base_file_table_8cpp.html#a8b7cf3b06d4cc7779a95a0ef92172269" title="GetBits" alt="" coords="1215,139,1281,168"/>
 <area shape="rect" id="node21" href="$lookup_8h.html#a28bbffa78951ac929184f31d92a05388" title="hashlittle2" alt="" coords="1364,85,1444,115"/>
-<area shape="rect" id="node31" href="$readme_8md.html#a36a49bc70a70c0241c8daccf7b8f734b" title="section" alt="" coords="480,139,544,168"/>
 </map>

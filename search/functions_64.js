@@ -120,6 +120,5 @@ var searchData=
   ['dumpbaseitems',['dumpBaseItems',['../class_f_a_world_1_1_item_manager.html#a7e220987ec79e6be1b2789798dd21770',1,'FAWorld::ItemManager']]],
   ['dumpitempositions',['dumpItemPositions',['../class_f_a_world_1_1_item_manager.html#a7c9597dbc5e1a0d6ddde4ea70acb274a',1,'FAWorld::ItemManager']]],
   ['dumpuniqueitems',['dumpUniqueItems',['../class_f_a_world_1_1_item_manager.html#a3f13bcd1c104ff2806a4163fe806a156',1,'FAWorld::ItemManager']]],
-  ['dun',['Dun',['../class_level_1_1_dun.html#aebe0dd29cec43011e986c36a9a52b7b7',1,'Level::Dun::Dun(const std::string &amp;)'],['../class_level_1_1_dun.html#a6f8d438a6e18b0422cf11965afdd488d',1,'Level::Dun::Dun()'],['../class_level_1_1_dun.html#a405c84f6952cc06183f9c760ac8ac48e',1,'Level::Dun::Dun(size_t width, size_t height)']]],
-  ['dungeon',['dungeon',['../readme_8md.html#a6344110f12adc4ca22620ba934ee108c',1,'readme.md']]]
+  ['dun',['Dun',['../class_level_1_1_dun.html#aebe0dd29cec43011e986c36a9a52b7b7',1,'Level::Dun::Dun(const std::string &amp;)'],['../class_level_1_1_dun.html#a6f8d438a6e18b0422cf11965afdd488d',1,'Level::Dun::Dun()'],['../class_level_1_1_dun.html#a405c84f6952cc06183f9c760ac8ac48e',1,'Level::Dun::Dun(size_t width, size_t height)']]]
 ];

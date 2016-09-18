@@ -84,7 +84,6 @@ var searchData=
   ['currblockno',['currBlockNo',['../struct_d_state.html#a6b6aede60a677794f7eae8691be3b3a1',1,'DState']]],
   ['current',['current',['../classpython_1_1menu_1_1_menu.html#a11b61e5d82f0e9e5dcdc70ad228fb00c',1,'python::menu::Menu::current()'],['../namespace_f_a_world.html#a852ca427ae2af40a2a2fb8919aebe51c',1,'FAWorld::current()']]],
   ['currentframe',['currentFrame',['../class_ui___main_window.html#ae0b3478604bc25b041a2727a46b02b7b',1,'Ui_MainWindow']]],
-  ['currently',['Currently',['../readme_8md.html#aaa2039ceb46b592e585d4c0ea7dd3d91',1,'readme.md']]],
   ['currentmenu',['currentMenu',['../classpython_1_1creator_1_1_creator.html#af38377872716785173db09dd1782d8cc',1,'python::creator::Creator::currentMenu()'],['../classpython_1_1creator_1_1_creator.html#a4bc6d7046bb7fd0e726dff66e8fac556',1,'python::creator::Creator::currentMenu()']]],
   ['currentx',['currentX',['../struct_f_a_world_1_1_pos_net_data.html#aefe461cedbac2c07d4c71c46753e7a3d',1,'FAWorld::PosNetData']]],
   ['currenty',['currentY',['../struct_f_a_world_1_1_pos_net_data.html#af2185f9b9b010bfec21cefd99572ca39',1,'FAWorld::PosNetData']]],

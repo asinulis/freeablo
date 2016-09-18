@@ -32,8 +32,6 @@ var searchData=
   ['screenx',['screenX',['../namespacepython_1_1draggable.html#ab2bc96a3f82fca7ac96ba5bb6b5c39c8',1,'python::draggable']]],
   ['screeny',['screenY',['../namespacepython_1_1draggable.html#ad80fa39ac2779468c5534db19e128716',1,'python::draggable']]],
   ['script_5fdir',['SCRIPT_DIR',['../namespacegen__gtest__pred__impl.html#af5053414601a47a8e949496ca30f327b',1,'gen_gtest_pred_impl']]],
-  ['sdl2',['SDL2',['../readme_8md.html#a7b340f02286844373215f60b7139c8c0',1,'readme.md']]],
-  ['sdl2_5fimage',['sdl2_image',['../readme_8md.html#a354206c8a30a2f48a7d1bed9a7becb5b',1,'readme.md']]],
   ['secondattack',['secondAttack',['../struct_diablo_exe_1_1_monster.html#a6c925dd229b4223d8cd7a9087cf75b3b',1,'DiabloExe::Monster']]],
   ['secondattackframeset',['secondAttackFrameSet',['../struct_diablo_exe_1_1_monster.html#a69df76773aefa1628c5abe1b3bf9b89a',1,'DiabloExe::Monster']]],
   ['secondattackplayback',['secondAttackPlayback',['../struct_diablo_exe_1_1_monster.html#aded0dcab7e3f5d2963d5e6ac02cdfe07',1,'DiabloExe::Monster']]],
